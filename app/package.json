@@ -18,7 +18,6 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "cytoscape": "^3.14.2",
-    "file-system": "^2.2.2"
+    "cytoscape": "^3.14.2"
   }
 }
